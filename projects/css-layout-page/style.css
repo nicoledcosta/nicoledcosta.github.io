@@ -1,0 +1,18 @@
+h1{
+	font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    
+}
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Helvetica;
+    text-align: left;
+    color:darkblue
+}
+p {
+	font-family: 'Source Sans Pro', sans-serif;
+    text-align: left;
+    font-weight: normal;
+}
