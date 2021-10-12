@@ -1,0 +1,48 @@
+.logo{
+    width: 150px;
+    margin-left: 105px;
+}
+.row{
+    margin-top:20px;
+}
+
+img{
+	margin: 20px;
+}
+
+@media (max-width:600px){
+    .row{
+        margin-top:0;
+    }
+}
+
+body{
+	margin-bottom: 50px;
+}
+
+
+p{
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	font-size:16px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+h1{
+    font-family: 'Scheherazade New', serif;
+    font-size: 50px;
+	color: brown;
+    margin-top: 20px;
+	margin-bottom: 20px;
+    text-transform: uppercase;
+}
+h2,
+h3,
+footer{
+	font-family: 'Scheherazade New', serif;
+	color: brown;
+    margin-top: 20px;
+	margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
