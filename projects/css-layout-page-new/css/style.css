@@ -1,0 +1,28 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.logo {
+    width: 250px;
+    
+}
+
+.logo2 {
+    width: 200px;
+}
+.logo3 {
+    width: 300px;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+h2 {
+    color: darkgreen;
+    font-family: 'Oswald', sans-serif;
+}
+p{
+    font-family:'Merriweather', serif ;
+    font-weight: 400 ;
+
+}
