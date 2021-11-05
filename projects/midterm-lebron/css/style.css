@@ -1,0 +1,49 @@
+body {
+    font-size: 16px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.logo {
+    display: block;
+    width: 150px;
+    margin: 0 auto;
+    offset: 10px 60px;
+    padding-left: 10px;
+}
+
+
+.lebron {
+    box-shadow: 10px 7px #FFFFFF;
+    width: 75%;
+
+    
+
+}
+h1{
+    offset: 1;
+    font-size: 3.5em;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 60px;
+}
+h2{
+    font-size: .8em;
+    color: gray;
+   
+}
+h3 {
+    font-size: .9em ;
+    padding-top: 10px;
+
+}
+h5 {
+    font-weight: 200;
+    font-size: .8em;
+    font-style: italic;
+    color: gray;
+}
+p {
+    font-weight: 300;
+
+
+}
