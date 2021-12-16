@@ -3,21 +3,21 @@
     display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 25%;
+  width: 50%;
 }
 .pic-2 {
     width: 800px;
     display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 70%;
 }
 .pic-3 {
     width: 700px;
     display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 75%;
     
 }
 .pic-4 {
@@ -25,29 +25,29 @@
     display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 75%;
 }
 .pic-5 {
     width: 700px;
     display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 75%;
     
 }
 h1{
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
-    text-align: center;
-    background-color: aqua;
+    color: aqua;
+    font-size: 8em;
 }
 h2{
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
-    text-align: center;
+    font-size: 2em;
     background-color: aqua;
 }
-h4 {
-    font-family:'Merriweather', serif ;
-    
+p {
+  font-family:'Merriweather', serif ;
+  font-size: 1.5em;
 }
